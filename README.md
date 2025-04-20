@@ -8,3 +8,4 @@ Homework 3: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/H
 Homework 4: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework4.ipynb <br />
 Homework 5: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework5.ipynb <br />
 Homework 6: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework6.ipynb <br />
+Homework 7: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework7.ipynb <br />
