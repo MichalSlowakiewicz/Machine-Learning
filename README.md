@@ -9,3 +9,6 @@ Homework 4: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/H
 Homework 5: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework5.ipynb <br />
 Homework 6: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework6.ipynb <br />
 Homework 7: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework7.ipynb <br />
+Homework 8: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework8.ipynb <br />
+  HW8 - video 1: https://drive.google.com/drive/folders/1uXs2glkMpHFTqmKGXcrSd4rH9R3u4XL2?usp=sharing <br />
+  HW8 - video 2: https://drive.google.com/drive/folders/1_eQOTXYetmeVrOvYYFQ-sWAzyQp9RBGk?usp=sharing <br />
