@@ -13,3 +13,4 @@ Homework 8: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/H
 &nbsp;&nbsp;&nbsp;&nbsp;  HW8 - video 1: https://drive.google.com/drive/folders/1uXs2glkMpHFTqmKGXcrSd4rH9R3u4XL2?usp=sharing <br />
 &nbsp;&nbsp;&nbsp;&nbsp;  HW8 - video 2: https://drive.google.com/drive/folders/1_eQOTXYetmeVrOvYYFQ-sWAzyQp9RBGk?usp=sharing <br />
 Homework 9: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework9.ipynb <br />
+Homework 10: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework10.ipynb <br />
