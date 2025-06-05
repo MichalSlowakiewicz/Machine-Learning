@@ -15,3 +15,4 @@ Homework 8: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/H
 Homework 9: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework9.ipynb <br />
 Homework 10: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework10.ipynb <br />
 Homework 11: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework11.ipynb <br />
+Homework 12: https://github.com/MichalSlowakiewicz/Machine-Learning/blob/master/Homework12-fixed.ipynb <br />
